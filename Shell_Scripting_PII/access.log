@@ -1,0 +1,249 @@
+10:11:51.606228 ARP, Request who-has 10.70.1.41 tell 10.70.1.78, length 46
+10:11:51.686712 STP 802.1s, Rapid STP, CIST Flags [Forward, Agreement], length 103
+10:11:51.706358 ARP, Request who-has 10.70.1.41 tell 10.70.1.1, length 46
+10:11:51.728345 IP 10.70.1.78.65282 > 239.255.255.250.1900: UDP, length 175
+10:11:51.739437 ARP, Request who-has 10.70.1.32 tell 10.70.1.1, length 46
+10:11:51.964359 ARP, Request who-has 10.70.1.41 tell 10.70.1.85, length 46
+10:11:52.117200 ARP, Request who-has 10.70.1.0 tell 10.70.1.68, length 46
+10:11:52.158483 ARP, Request who-has 10.70.1.131 tell 10.70.1.109, length 46
+10:11:52.510088 ARP, Request who-has 10.70.1.4 tell 10.70.1.1, length 46
+10:11:52.548814 ARP, Request who-has 10.70.1.37 tell 10.70.1.1, length 46
+10:11:52.548839 ARP, Request who-has 10.70.1.35 tell 10.70.1.1, length 46
+10:11:52.575455 ARP, Request who-has 10.70.1.131 tell 10.70.1.70, length 46
+10:11:52.698834 ARP, Request who-has 10.70.1.41 tell 10.70.1.1, length 46
+10:11:52.738887 ARP, Request who-has 10.70.1.32 tell 10.70.1.1, length 46
+10:11:52.746100 IP 10.70.1.78.65282 > 239.255.255.250.1900: UDP, length 175
+10:11:52.793714 ARP, Request who-has 10.70.1.41 tell 10.70.1.85, length 46
+10:11:53.138571 ARP, Request who-has 10.70.1.131 tell 10.70.1.109, length 46
+10:11:53.140081 ARP, Request who-has 10.70.1.0 tell 10.70.1.68, length 46
+10:11:53.215089 IP 10.70.1.110.42068 > 10.20.0.4.3128: Flags [.], ack 3424156119, win 501, options [nop,nop,TS val 1070699446 ecr 667397257], length 0
+10:11:53.229566 IP 10.20.0.4.3128 > 10.70.1.110.42068: Flags [.], ack 1, win 501, options [nop,nop,TS val 667407279 ecr 1070689479], length 0
+10:11:53.449829 IP 10.70.1.107.49953 > 239.255.255.250.1900: UDP, length 175
+10:11:53.508922 ARP, Request who-has 10.70.1.4 tell 10.70.1.1, length 46
+10:11:53.532714 ARP, Request who-has 10.70.1.131 tell 10.70.1.70, length 46
+10:11:53.686942 STP 802.1s, Rapid STP, CIST Flags [Forward, Agreement], length 103
+10:11:53.698879 ARP, Request who-has 10.70.1.41 tell 10.70.1.1, length 46
+10:11:53.738973 ARP, Request who-has 10.70.1.32 tell 10.70.1.1, length 46
+10:11:53.764145 IP 10.70.1.78.65282 > 239.255.255.250.1900: UDP, length 175
+10:11:53.793916 ARP, Request who-has 10.70.1.41 tell 10.70.1.85, length 46
+10:11:53.859067 ARP, Request who-has 10.70.1.88 tell 10.70.1.1, length 46
+10:11:53.927073 ARP, Request who-has 10.70.1.41 tell 10.70.1.78, length 46
+10:11:54.010360 IP 10.70.1.110.53416 > 52.113.207.2.443: Flags [P.], seq 3935029606:3935029663, ack 138878575, win 501, length 57
+10:11:54.251667 IP 52.113.207.2.443 > 10.70.1.110.53416: Flags [P.], seq 1:47, ack 57, win 2048, length 46
+10:11:54.251716 IP 10.70.1.110.53416 > 52.113.207.2.443: Flags [.], ack 47, win 501, length 0
+10:11:54.462601 IP 10.70.1.107.49953 > 239.255.255.250.1900: UDP, length 175
+10:11:54.508989 ARP, Request who-has 10.70.1.4 tell 10.70.1.1, length 46
+10:11:54.536166 ARP, Request who-has 10.70.1.131 tell 10.70.1.70, length 46
+10:11:54.597931 ARP, Request who-has 10.70.1.41 tell 10.70.1.78, length 46
+10:11:54.694066 IP 10.70.1.110.41748 > 10.20.1.13.53: 7321+ A? optimizationguide-pa.googleapis.com. (53)
+10:11:54.695519 IP 10.70.1.110.42070 > 10.20.0.4.3128: Flags [S], seq 2535064791, win 64240, options [mss 1460,sackOK,TS val 1070700926 ecr 0,nop,wscale 7], length 0
+10:11:54.708765 IP 10.20.1.13.53 > 10.70.1.110.41748: 7321 9/0/0 A 142.251.129.74, A 142.251.133.170, A 142.251.135.138, A 142.250.79.42, A 142.250.79.10, A 142.251.135.42, A 142.250.78.234, A 142.251.134.106, A 142.250.78.202 (197)
+10:11:54.708809 IP 10.70.1.110 > 10.20.1.13: ICMP 10.70.1.110 udp port 41748 unreachable, length 233
+10:11:54.709949 IP 10.20.0.4.3128 > 10.70.1.110.42070: Flags [S.], seq 137850411, ack 2535064792, win 65160, options [mss 1460,sackOK,TS val 667408760 ecr 1070700926,nop,wscale 7], length 0
+10:11:54.710008 IP 10.70.1.110.42070 > 10.20.0.4.3128: Flags [.], ack 1, win 502, options [nop,nop,TS val 1070700941 ecr 667408760], length 0
+10:11:54.710200 IP 10.70.1.110.42070 > 10.20.0.4.3128: Flags [P.], seq 1:257, ack 1, win 502, options [nop,nop,TS val 1070700941 ecr 667408760], length 256
+10:11:54.724930 IP 10.20.0.4.3128 > 10.70.1.110.42070: Flags [.], ack 257, win 508, options [nop,nop,TS val 667408774 ecr 1070700941], length 0
+10:11:54.859126 ARP, Request who-has 10.70.1.88 tell 10.70.1.1, length 46
+10:11:54.906143 IP 10.20.0.4.3128 > 10.70.1.110.42070: Flags [P.], seq 1:40, ack 257, win 508, options [nop,nop,TS val 667408956 ecr 1070700941], length 39
+10:11:54.906179 IP 10.70.1.110.42070 > 10.20.0.4.3128: Flags [.], ack 40, win 502, options [nop,nop,TS val 1070701137 ecr 667408956], length 0
+10:11:54.906785 IP 10.70.1.110.42070 > 10.20.0.4.3128: Flags [P.], seq 257:1064, ack 40, win 502, options [nop,nop,TS val 1070701138 ecr 667408956], length 807
+10:11:54.921225 IP 10.20.0.4.3128 > 10.70.1.110.42070: Flags [.], ack 1064, win 502, options [nop,nop,TS val 667408971 ecr 1070701138], length 0
+10:11:54.932514 IP6 fe80::5810:8cff:fe22:8a74 > ff02::2: ICMP6, router solicitation, length 16
+10:11:54.933159 ARP, Request who-has 10.70.1.41 tell 10.70.1.85, length 46
+10:11:55.053394 IP 10.20.0.4.3128 > 10.70.1.110.42070: Flags [P.], seq 40:436, ack 1064, win 502, options [nop,nop,TS val 667409103 ecr 1070701138], length 396
+10:11:55.054233 IP 10.70.1.110.42070 > 10.20.0.4.3128: Flags [P.], seq 1064:1138, ack 436, win 501, options [nop,nop,TS val 1070701285 ecr 667409103], length 74
+10:11:55.054603 IP 10.70.1.110.42070 > 10.20.0.4.3128: Flags [P.], seq 1138:1230, ack 436, win 501, options [nop,nop,TS val 1070701285 ecr 667409103], length 92
+10:11:55.054902 IP 10.70.1.110.42070 > 10.20.0.4.3128: Flags [P.], seq 1230:1560, ack 436, win 501, options [nop,nop,TS val 1070701286 ecr 667409103], length 330
+10:11:55.055034 IP 10.70.1.110.42070 > 10.20.0.4.3128: Flags [P.], seq 1560:1606, ack 436, win 501, options [nop,nop,TS val 1070701286 ecr 667409103], length 46
+10:11:55.069014 IP 10.20.0.4.3128 > 10.70.1.110.42070: Flags [.], ack 1138, win 502, options [nop,nop,TS val 667409118 ecr 1070701285], length 0
+10:11:55.069402 IP 10.20.0.4.3128 > 10.70.1.110.42070: Flags [.], ack 1230, win 502, options [nop,nop,TS val 667409119 ecr 1070701285], length 0
+10:11:55.069644 IP 10.20.0.4.3128 > 10.70.1.110.42070: Flags [.], ack 1560, win 501, options [nop,nop,TS val 667409119 ecr 1070701286], length 0
+10:11:55.069680 IP 10.20.0.4.3128 > 10.70.1.110.42070: Flags [.], ack 1606, win 501, options [nop,nop,TS val 667409119 ecr 1070701286], length 0
+10:11:55.142490 IP 10.20.0.4.3128 > 10.70.1.110.42070: Flags [P.], seq 436:1434, ack 1606, win 501, options [nop,nop,TS val 667409192 ecr 1070701286], length 998
+10:11:55.142868 IP 10.70.1.110.42070 > 10.20.0.4.3128: Flags [P.], seq 1606:1637, ack 1434, win 501, options [nop,nop,TS val 1070701374 ecr 667409192], length 31
+10:11:55.146492 IP 10.20.0.4.3128 > 10.70.1.110.42070: Flags [P.], seq 1434:1465, ack 1606, win 501, options [nop,nop,TS val 667409196 ecr 1070701286], length 31
+10:11:55.157437 IP 10.20.0.4.3128 > 10.70.1.110.42070: Flags [.], ack 1637, win 501, options [nop,nop,TS val 667409207 ecr 1070701374], length 0
+10:11:55.187089 IP 10.70.1.110.42070 > 10.20.0.4.3128: Flags [.], ack 1465, win 501, options [nop,nop,TS val 1070701418 ecr 667409196], length 0
+10:11:55.203910 ARP, Request who-has 10.70.1.41 tell 10.70.1.1, length 46
+10:11:55.327046 IP 10.70.1.110.33924 > 52.113.194.132.443: Flags [.], ack 1746921859, win 501, length 0
+10:11:55.332678 IP 10.20.0.4.3128 > 10.70.1.110.42070: Flags [P.], seq 1465:2449, ack 1637, win 501, options [nop,nop,TS val 667409382 ecr 1070701418], length 984
+10:11:55.332715 IP 10.70.1.110.42070 > 10.20.0.4.3128: Flags [.], ack 2449, win 501, options [nop,nop,TS val 1070701563 ecr 667409382], length 0
+10:11:55.332739 IP 10.20.0.4.3128 > 10.70.1.110.42070: Flags [P.], seq 2449:2539, ack 1637, win 501, options [nop,nop,TS val 667409382 ecr 1070701418], length 90
+10:11:55.332746 IP 10.70.1.110.42070 > 10.20.0.4.3128: Flags [.], ack 2539, win 501, options [nop,nop,TS val 1070701563 ecr 667409382], length 0
+10:11:55.335660 IP 10.70.1.110.42070 > 10.20.0.4.3128: Flags [P.], seq 1637:1676, ack 2539, win 501, options [nop,nop,TS val 1070701566 ecr 667409382], length 39
+10:11:55.350266 IP 10.20.0.4.3128 > 10.70.1.110.42070: Flags [.], ack 1676, win 501, options [nop,nop,TS val 667409400 ecr 1070701566], length 0
+10:11:55.405147 IP 52.113.194.132.443 > 10.70.1.110.33924: Flags [.], ack 1, win 16385, length 0
+10:11:55.462958 IP 10.70.1.107.49953 > 239.255.255.250.1900: UDP, length 175
+10:11:55.575608 ARP, Request who-has 10.70.1.131 tell 10.70.1.70, length 46
+10:11:55.599361 ARP, Request who-has 10.70.1.41 tell 10.70.1.78, length 46
+10:11:55.687089 STP 802.1s, Rapid STP, CIST Flags [Forward, Agreement], length 103
+10:11:55.696166 IP 10.20.0.4.3128 > 10.70.1.110.37596: Flags [P.], seq 15966701:15966821, ack 3897147675, win 501, options [nop,nop,TS val 667409746 ecr 1070692088], length 120
+10:11:55.696220 IP 10.70.1.110.37596 > 10.20.0.4.3128: Flags [.], ack 120, win 501, options [nop,nop,TS val 1070701927 ecr 667409746], length 0
+10:11:55.727214 IP 10.70.1.110.37596 > 10.20.0.4.3128: Flags [P.], seq 1:98, ack 120, win 501, options [nop,nop,TS val 1070701958 ecr 667409746], length 97
+10:11:55.741612 IP 10.20.0.4.3128 > 10.70.1.110.37596: Flags [.], ack 98, win 501, options [nop,nop,TS val 667409791 ecr 1070701958], length 0
+10:11:55.794207 ARP, Request who-has 10.70.1.41 tell 10.70.1.85, length 46
+10:11:55.831604 ARP, Request who-has 10.70.1.131 tell 10.70.1.61, length 46
+10:11:55.859176 ARP, Request who-has 10.70.1.88 tell 10.70.1.1, length 46
+10:11:56.199214 ARP, Request who-has 10.70.1.41 tell 10.70.1.1, length 46
+10:11:56.344331 IP 10.70.1.1 > 224.0.0.5: OSPFv2, Hello, length 44
+10:11:56.477854 IP 10.70.1.107.49953 > 239.255.255.250.1900: UDP, length 175
+10:11:56.546192 ARP, Request who-has 10.70.1.131 tell 10.70.1.70, length 46
+10:11:56.645655 ARP, Request who-has 10.70.1.131 tell 10.70.1.61, length 46
+10:11:56.794512 ARP, Request who-has 10.70.1.41 tell 10.70.1.85, length 46
+10:11:56.883433 ARP, Request who-has 10.70.1.37 tell 10.70.1.1, length 46
+10:11:57.199315 ARP, Request who-has 10.70.1.41 tell 10.70.1.1, length 46
+10:11:57.372449 ARP, Request who-has 10.70.1.131 tell 10.70.1.109, length 46
+10:11:57.375171 IP 10.70.1.110.47516 > 10.20.1.13.445: Flags [P.], seq 3626979599:3626979671, ack 1773579257, win 501, length 72
+10:11:57.390120 IP 10.20.1.13.445 > 10.70.1.110.47516: Flags [P.], seq 1:73, ack 72, win 1024, length 72
+10:11:57.390165 IP 10.70.1.110.47516 > 10.20.1.13.445: Flags [.], ack 73, win 501, length 0
+10:11:57.532808 ARP, Request who-has 10.70.1.131 tell 10.70.1.70, length 46
+10:11:57.642711 ARP, Request who-has 10.70.1.131 tell 10.70.1.61, length 46
+10:11:57.687274 STP 802.1s, Rapid STP, CIST Flags [Forward, Agreement], length 103
+10:11:57.758045 ARP, Request who-has 10.70.1.32 tell 10.70.1.1, length 46
+10:11:57.879403 ARP, Request who-has 10.70.1.37 tell 10.70.1.1, length 46
+10:11:58.148634 IP 10.70.1.78.5353 > 224.0.0.251.5353: 0 A (QM)? arq-24440.local. (33)
+10:11:58.149043 IP6 fe80::f6a4:2f03:227e:f374.5353 > ff02::fb.5353: 0 A (QM)? arq-24440.local. (33)
+10:11:58.149484 IP 10.70.1.78.5353 > 224.0.0.251.5353: 0 AAAA (QM)? arq-24440.local. (33)
+10:11:58.149621 IP6 fe80::f6a4:2f03:227e:f374.5353 > ff02::fb.5353: 0 AAAA (QM)? arq-24440.local. (33)
+10:11:58.150078 IP6 fe80::f6a4:2f03:227e:f374.62992 > ff02::1:3.5355: UDP, length 27
+10:11:58.150369 IP 10.70.1.78.62992 > 224.0.0.252.5355: UDP, length 27
+10:11:58.150673 IP6 fe80::f6a4:2f03:227e:f374.58899 > ff02::1:3.5355: UDP, length 27
+10:11:58.150932 IP 10.70.1.78.58899 > 224.0.0.252.5355: UDP, length 27
+10:11:58.151868 ARP, Request who-has 10.70.1.131 tell 10.70.1.109, length 46
+10:11:58.518439 ARP, Request who-has 10.70.1.131 tell 10.70.1.1, length 46
+10:11:58.568481 IP6 fe80::f6a4:2f03:227e:f374.58899 > ff02::1:3.5355: UDP, length 27
+10:11:58.568502 IP6 fe80::f6a4:2f03:227e:f374.62992 > ff02::1:3.5355: UDP, length 27
+10:11:58.568614 IP 10.70.1.78.58899 > 224.0.0.252.5355: UDP, length 27
+10:11:58.568785 IP 10.70.1.78.62992 > 224.0.0.252.5355: UDP, length 27
+10:11:58.650691 ARP, Request who-has 10.70.1.6 tell 10.70.1.1, length 46
+10:11:58.749464 ARP, Request who-has 10.70.1.32 tell 10.70.1.1, length 46
+10:11:58.879499 ARP, Request who-has 10.70.1.37 tell 10.70.1.1, length 46
+10:11:58.933741 ARP, Request who-has 10.70.1.41 tell 10.70.1.85, length 46
+10:11:58.934114 ARP, Request who-has 10.70.1.37 tell 10.70.1.85, length 46
+10:11:59.139264 ARP, Request who-has 10.70.1.131 tell 10.70.1.109, length 46
+10:11:59.163288 IP 10.70.1.78.5353 > 224.0.0.251.5353: 0 AAAA (QM)? arq-24440.local. (33)
+10:11:59.163517 IP6 fe80::f6a4:2f03:227e:f374.5353 > ff02::fb.5353: 0 AAAA (QM)? arq-24440.local. (33)
+10:11:59.164002 IP 10.70.1.78.5353 > 224.0.0.251.5353: 0 A (QM)? arq-24440.local. (33)
+10:11:59.164125 IP6 fe80::f6a4:2f03:227e:f374.5353 > ff02::fb.5353: 0 A (QM)? arq-24440.local. (33)
+10:11:59.250882 ARP, Request who-has 10.70.1.131 tell 10.70.1.61, length 46
+10:11:59.348971 ARP, Request who-has 10.70.1.41 tell 10.70.1.1, length 46
+10:11:59.509493 ARP, Request who-has 10.70.1.131 tell 10.70.1.1, length 46
+10:11:59.649634 ARP, Request who-has 10.70.1.6 tell 10.70.1.1, length 46
+10:11:59.687605 STP 802.1s, Rapid STP, CIST Flags [Forward, Agreement], length 103
+
+10:12:45.396579 IP 10.20.0.4.3128 > 10.70.1.110.42080: Flags [P.], seq 2104757163:2104757307, ack 3702417515, win 501, options [nop,nop,TS val 667459440 ecr 1070751339], length 144
+10:12:45.435523 IP6 fe80::5810:8cff:fe5b:53cd > ff02::2: ICMP6, router solicitation, length 16
+10:12:45.439096 IP 10.70.1.110.42080 > 10.20.0.4.3128: Flags [.], ack 144, win 501, options [nop,nop,TS val 1070751663 ecr 667459440], length 0
+10:12:45.541789 ARP, Request who-has 10.70.1.131 tell 10.70.1.70, length 46
+10:12:45.554427 ARP, Request who-has 10.70.1.64 tell 10.70.1.1, length 46
+10:12:45.692746 STP 802.1s, Rapid STP, CIST Flags [Forward, Agreement], length 103
+10:12:45.716231 ARP, Request who-has 10.70.1.41 tell 10.70.1.1, length 46
+10:12:45.755366 ARP, Request who-has 10.70.1.32 tell 10.70.1.1, length 46
+10:12:45.799341 ARP, Request who-has 10.70.1.41 tell 10.70.1.85, length 46
+10:12:46.133750 ARP, Request who-has 10.70.1.41 tell 10.70.1.68, length 46
+10:12:46.153974 ARP, Request who-has 10.70.1.131 tell 10.70.1.61, length 46
+10:12:46.156118 ARP, Request who-has 10.70.1.88 tell 10.70.1.1, length 46
+10:12:46.219962 IP 10.70.1.110.33983 > 20.189.173.3.443: Flags [F.], seq 3885970625, ack 3315558361, win 501, length 0
+10:12:46.220321 IP 10.70.1.110.38375 > 10.20.0.4.3128: Flags [S], seq 122067666, win 64240, options [mss 1460,sackOK,TS val 1070752444 ecr 0,nop,wscale 7], length 0
+10:12:46.220507 IP 10.70.1.110.51835 > 52.178.17.3.443: Flags [S], seq 314218863, win 64240, options [mss 1460,sackOK,TS val 382752197 ecr 0,nop,wscale 7], length 0
+10:12:46.220841 IP 10.70.1.110.49311 > 10.20.1.11.53: 40127+ AAAA? ic3.events.data.microsoft.com. (47)
+10:12:46.220956 IP 10.70.1.110.56199 > 10.20.1.13.53: 11917+ AAAA? ic3.events.data.microsoft.com. (47)
+10:12:46.221264 IP 10.70.1.110.39568 > 10.20.1.11.53: 26418+ A? ic3.events.data.microsoft.com. (47)
+10:12:46.221360 IP 10.70.1.110.54226 > 10.20.1.13.53: 56129+ A? ic3.events.data.microsoft.com. (47)
+10:12:46.234717 IP 10.20.0.4.3128 > 10.70.1.110.38375: Flags [S.], seq 3062118779, ack 122067667, win 65160, options [mss 1460,sackOK,TS val 667460278 ecr 1070752444,nop,wscale 7], length 0
+10:12:46.234787 IP 10.70.1.110.38375 > 10.20.0.4.3128: Flags [.], ack 1, win 502, options [nop,nop,TS val 1070752458 ecr 667460278], length 0
+10:12:46.235051 IP 10.70.1.110.38375 > 10.20.0.4.3128: Flags [P.], seq 1:96, ack 1, win 502, options [nop,nop,TS val 1070752458 ecr 667460278], length 95
+10:12:46.239724 IP 10.20.1.11.53 > 10.70.1.110.49311: 40127 2/1/0 CNAME teams-events-data.trafficmanager.net., CNAME onedscolprdeus13.eastus.cloudapp.azure.com. (211)
+10:12:46.239769 IP 10.20.1.11.53 > 10.70.1.110.39568: 26418 3/0/0 CNAME teams-events-data.trafficmanager.net., CNAME onedscolprdeus13.eastus.cloudapp.azure.com., A 52.168.117.170 (166)
+10:12:46.240488 IP 10.70.1.110.43614 > 10.20.1.13.53: 14269+ AAAA? teams-events-data.trafficmanager.net. (54)
+10:12:46.240877 IP 10.70.1.110.50717 > 10.20.1.11.53: 54726+ AAAA? onedscolprdeus13.eastus.cloudapp.azure.com. (60)
+10:12:46.240994 IP 10.70.1.110.41941 > 10.20.1.13.53: 19318+ AAAA? onedscolprdeus13.eastus.cloudapp.azure.com. (60)
+10:12:46.241496 IP 10.70.1.110.49185 > 10.20.1.13.53: 38824+ A? teams-events-data.trafficmanager.net. (54)
+10:12:46.241846 IP 10.70.1.110.40900 > 10.20.1.13.53: 48541+ A? onedscolprdeus13.eastus.cloudapp.azure.com. (60)
+10:12:46.249440 IP 10.20.0.4.3128 > 10.70.1.110.38375: Flags [.], ack 96, win 509, options [nop,nop,TS val 667460293 ecr 1070752458], length 0
+10:12:46.255567 IP 10.20.1.11.53 > 10.70.1.110.50717: 54726 0/1/0 (131)
+10:12:46.275895 IP 10.20.1.13.53 > 10.70.1.110.49185: 38824 2/0/0 CNAME onedscolprdaus00.australiasoutheast.cloudapp.azure.com., A 104.46.162.224 (138)
+10:12:46.275937 IP 10.70.1.110 > 10.20.1.13: ICMP 10.70.1.110 udp port 49185 unreachable, length 174
+10:12:46.275944 IP 10.20.1.13.53 > 10.70.1.110.54226: 56129 3/0/0 CNAME teams-events-data.trafficmanager.net., CNAME onedscolprdaus00.australiasoutheast.cloudapp.azure.com., A 104.46.162.224 (178)
+10:12:46.275950 IP 10.70.1.110 > 10.20.1.13: ICMP 10.70.1.110 udp port 54226 unreachable, length 214
+10:12:46.290241 IP 10.20.1.13.53 > 10.70.1.110.40900: 48541 1/0/0 A 52.168.117.170 (76)
+10:12:46.290288 IP 10.70.1.110 > 10.20.1.13: ICMP 10.70.1.110 udp port 40900 unreachable, length 112
+10:12:46.297636 IP 10.20.1.13.53 > 10.70.1.110.41941: 19318 0/1/0 (131)
+10:12:46.297684 IP 10.70.1.110 > 10.20.1.13: ICMP 10.70.1.110 udp port 41941 unreachable, length 167
+10:12:46.361852 IP 10.70.1.1 > 224.0.0.5: OSPFv2, Hello, length 44
+10:12:46.406530 IP 10.20.1.13.53 > 10.70.1.110.43614: 14269 1/0/0 CNAME onedscolprdaus00.australiasoutheast.cloudapp.azure.com. (122)
+10:12:46.406566 IP 10.20.1.13.53 > 10.70.1.110.56199: 11917 2/0/0 CNAME teams-events-data.trafficmanager.net., CNAME onedscolprdaus00.australiasoutheast.cloudapp.azure.com. (162)
+10:12:46.454417 IP 10.20.0.4.3128 > 10.70.1.110.38375: Flags [P.], seq 1:40, ack 96, win 509, options [nop,nop,TS val 667460498 ecr 1070752458], length 39
+10:12:46.454471 IP 10.70.1.110.38375 > 10.20.0.4.3128: Flags [.], ack 40, win 502, options [nop,nop,TS val 1070752678 ecr 667460498], length 0
+10:12:46.455163 IP 10.70.1.110.38375 > 10.20.0.4.3128: Flags [P.], seq 96:393, ack 40, win 502, options [nop,nop,TS val 1070752678 ecr 667460498], length 297
+10:12:46.467175 IP 20.189.173.3.443 > 10.70.1.110.33983: Flags [F.], seq 1, ack 1, win 2053, length 0
+10:12:46.467188 IP 10.70.1.110.33983 > 20.189.173.3.443: Flags [.], ack 2, win 501, length 0
+10:12:46.469540 IP 10.20.0.4.3128 > 10.70.1.110.38375: Flags [.], ack 393, win 507, options [nop,nop,TS val 667460513 ecr 1070752678], length 0
+10:12:46.470646 IP 10.70.1.110.56139 > 52.178.17.3.443: Flags [S], seq 1062114642, win 64240, options [mss 1460,sackOK,TS val 382752447 ecr 0,nop,wscale 7], length 0
+10:12:46.477286 IP 52.178.17.3.443 > 10.70.1.110.51835: Flags [S.], seq 2407055108, ack 314218864, win 65535, options [mss 1440,nop,wscale 8,nop,nop,sackOK], length 0
+10:12:46.477304 IP 10.70.1.110.51835 > 52.178.17.3.443: Flags [.], ack 1, win 502, length 0
+10:12:46.477506 IP 10.70.1.110.51835 > 52.178.17.3.443: Flags [P.], seq 1:298, ack 1, win 502, length 297
+10:12:46.544866 ARP, Request who-has 10.70.1.131 tell 10.70.1.70, length 46
+10:12:46.545404 ARP, Request who-has 10.70.1.64 tell 10.70.1.1, length 46
+10:12:46.684137 IP 10.20.0.4.3128 > 10.70.1.110.38375: Flags [P.], seq 40:2936, ack 393, win 507, options [nop,nop,TS val 667460727 ecr 1070752678], length 2896
+10:12:46.684149 IP 10.20.0.4.3128 > 10.70.1.110.38375: Flags [P.], seq 2936:4420, ack 393, win 507, options [nop,nop,TS val 667460727 ecr 1070752678], length 1484
+10:12:46.684176 IP 10.70.1.110.38375 > 10.20.0.4.3128: Flags [.], ack 4420, win 487, options [nop,nop,TS val 1070752907 ecr 667460727], length 0
+10:12:46.684408 IP 10.20.0.4.3128 > 10.70.1.110.38375: Flags [P.], seq 4420:4543, ack 393, win 507, options [nop,nop,TS val 667460728 ecr 1070752678], length 123
+10:12:46.688020 IP 10.70.1.110.38375 > 10.20.0.4.3128: Flags [P.], seq 393:551, ack 4543, win 501, options [nop,nop,TS val 1070752911 ecr 667460728], length 158
+10:12:46.702423 IP 10.20.0.4.3128 > 10.70.1.110.38375: Flags [.], ack 551, win 506, options [nop,nop,TS val 667460746 ecr 1070752911], length 0
+10:12:46.715417 ARP, Request who-has 10.70.1.41 tell 10.70.1.1, length 46
+10:12:46.717732 IP 52.178.17.3.443 > 10.70.1.110.56139: Flags [S.], seq 2158811834, ack 1062114643, win 65535, options [mss 1440,nop,wscale 8,nop,nop,sackOK], length 0
+10:12:46.717742 IP 10.70.1.110.56139 > 52.178.17.3.443: Flags [R], seq 1062114643, win 0, length 0
+10:12:46.739184 IP 52.178.17.3.443 > 10.70.1.110.51835: Flags [.], seq 1:4381, ack 298, win 2051, length 4380
+10:12:46.739192 IP 10.70.1.110.51835 > 52.178.17.3.443: Flags [.], ack 4381, win 489, length 0
+10:12:46.739587 IP 52.178.17.3.443 > 10.70.1.110.51835: Flags [P.], seq 4381:4506, ack 298, win 2051, length 125
+10:12:46.739592 IP 10.70.1.110.51835 > 52.178.17.3.443: Flags [.], ack 4506, win 501, length 0
+10:12:46.743036 IP 10.70.1.110.51835 > 52.178.17.3.443: Flags [P.], seq 298:456, ack 4506, win 501, length 158
+10:12:46.892154 ARP, Request who-has 10.70.1.37 tell 10.70.1.1, length 46
+10:12:46.908303 IP 10.20.0.4.3128 > 10.70.1.110.38375: Flags [P.], seq 4543:4594, ack 551, win 506, options [nop,nop,TS val 667460951 ecr 1070752911], length 51
+10:12:46.908475 IP 10.70.1.110.38375 > 10.20.0.4.3128: Flags [P.], seq 551:976, ack 4594, win 501, options [nop,nop,TS val 1070753132 ecr 667460951], length 425
+10:12:46.908523 IP 10.70.1.110.51835 > 52.178.17.3.443: Flags [F.], seq 456, ack 4506, win 501, length 0
+10:12:46.922948 IP 10.20.0.4.3128 > 10.70.1.110.38375: Flags [.], ack 976, win 503, options [nop,nop,TS val 667460966 ecr 1070753132], length 0
+10:12:46.922962 IP 10.70.1.110.38375 > 10.20.0.4.3128: Flags [P.], seq 976:2223, ack 4594, win 501, options [nop,nop,TS val 1070753146 ecr 667460966], length 1247
+10:12:46.937395 IP 10.20.0.4.3128 > 10.70.1.110.38375: Flags [.], ack 2223, win 501, options [nop,nop,TS val 667460981 ecr 1070753146], length 0
+10:12:47.001476 IP 52.178.17.3.443 > 10.70.1.110.51835: Flags [P.], seq 4506:4557, ack 456, win 2051, length 51
+10:12:47.001536 IP 10.70.1.110.51835 > 52.178.17.3.443: Flags [R], seq 314219319, win 0, length 0
+10:12:47.115464 IP 10.20.0.4.3128 > 10.70.1.110.37596: Flags [P.], seq 15973194:15973290, ack 3897150352, win 501, options [nop,nop,TS val 667461159 ecr 1070750212], length 96
+10:12:47.118168 IP 10.70.1.110.37596 > 10.20.0.4.3128: Flags [P.], seq 1:75, ack 96, win 501, options [nop,nop,TS val 1070753341 ecr 667461159], length 74
+10:12:47.121930 ARP, Request who-has 10.70.1.41 tell 10.70.1.68, length 46
+10:12:47.127636 IP 10.20.0.4.3128 > 10.70.1.110.38375: Flags [P.], seq 4594:4648, ack 2223, win 501, options [nop,nop,TS val 667461171 ecr 1070753146], length 54
+10:12:47.132634 IP 10.20.0.4.3128 > 10.70.1.110.37596: Flags [.], ack 75, win 501, options [nop,nop,TS val 667461176 ecr 1070753341], length 0
+10:12:47.137795 ARP, Request who-has 10.70.1.41 tell 10.70.1.78, length 46
+10:12:47.143057 IP 10.20.0.4.3128 > 10.70.1.110.38375: Flags [P.], seq 4648:5119, ack 2223, win 501, options [nop,nop,TS val 667461186 ecr 1070753146], length 471
+10:12:47.143235 IP 10.70.1.110.38375 > 10.20.0.4.3128: Flags [.], ack 5119, win 501, options [nop,nop,TS val 1070753366 ecr 667461171], length 0
+10:12:47.155559 ARP, Request who-has 10.70.1.88 tell 10.70.1.1, length 46
+10:12:47.176399 IP 52.178.17.3.443 > 10.70.1.110.51835: Flags [R.], seq 4557, ack 457, win 0, length 0
+10:12:47.545649 ARP, Request who-has 10.70.1.64 tell 10.70.1.1, length 46
+10:12:47.684821 ARP, Request who-has 10.70.1.5 tell 10.70.1.1, length 46
+10:12:47.685171 ARP, Request who-has 10.70.1.131 tell 10.70.1.70, length 46
+10:12:47.693297 STP 802.1s, Rapid STP, CIST Flags [Forward, Agreement], length 103
+10:12:47.715608 ARP, Request who-has 10.70.1.41 tell 10.70.1.1, length 46
+10:12:47.716437 ARP, Request who-has 10.70.1.32 tell 10.70.1.1, length 46
+10:12:47.885659 ARP, Request who-has 10.70.1.37 tell 10.70.1.1, length 46
+10:12:48.105188 ARP, Request who-has 10.70.1.41 tell 10.70.1.78, length 46
+10:12:48.155697 ARP, Request who-has 10.70.1.88 tell 10.70.1.1, length 46
+10:12:48.551136 ARP, Request who-has 10.70.1.131 tell 10.70.1.70, length 46
+10:12:48.563112 ARP, Request who-has 10.70.1.64 tell 10.70.1.1, length 46
+10:12:48.675794 ARP, Request who-has 10.70.1.5 tell 10.70.1.1, length 46
+10:12:48.715803 ARP, Request who-has 10.70.1.32 tell 10.70.1.1, length 46
+10:12:48.885789 ARP, Request who-has 10.70.1.37 tell 10.70.1.1, length 46
+10:12:48.943270 ARP, Request who-has 10.70.1.37 tell 10.70.1.85, length 46
+10:12:48.943858 ARP, Request who-has 10.70.1.41 tell 10.70.1.85, length 46
+10:12:49.013970 ARP, Request who-has 10.70.1.41 tell 10.70.1.1, length 46
+10:12:49.116509 ARP, Request who-has 10.70.1.41 tell 10.70.1.78, length 46
+10:12:49.554755 ARP, Request who-has 10.70.1.131 tell 10.70.1.70, length 46
+10:12:49.555874 ARP, Request who-has 10.70.1.64 tell 10.70.1.1, length 46
+10:12:49.644321 ARP, Request who-has 10.70.1.88 tell 10.70.1.1, length 46
+10:12:49.675863 ARP, Request who-has 10.70.1.5 tell 10.70.1.1, length 46
+10:12:49.693257 STP 802.1s, Rapid STP, CIST Flags [Forward, Agreement], length 103
+10:12:49.715957 ARP, Request who-has 10.70.1.32 tell 10.70.1.1, length 46
+10:12:49.800124 ARP, Request who-has 10.70.1.37 tell 10.70.1.85, length 46
+10:12:49.800399 ARP, Request who-has 10.70.1.41 tell 10.70.1.85, length 46
+10:12:50.005956 ARP, Request who-has 10.70.1.41 tell 10.70.1.1, length 46
+10:12:50.153830 ARP, Request who-has 10.70.1.41 tell 10.70.1.78, length 46
+
