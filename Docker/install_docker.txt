@@ -1,0 +1,28 @@
+====INSTALAÇÃO DOCKER NO LINUX UBUNTU ----
+
+sudo apt-get install \
+> ca-certificates \
+> curl \
+> gnupg \
+> lsb-release
+
+ou 
+
+apt-get intsall docker.io
+
+INSTALAÇÃO DOCKER ENGINE
+
+sudo aptg-et update 
+sudo apt-get install docker-ce docker-ce-cli containerd.io
+
+EXECUTANDO DOCKER COMO USUÁRIO 
+sudo usermod -aG docker $USER //Dessa forma cira se um grupo e adiciona o usuario
+
+
+AULA 1
+
+    -  Máquinas virtuais possuem camadas adicionais de virtualização em relação a um container;
+    -  Containers funcionam como processos no host;
+    -  Containers atingem isolamento através de namespaces;
+    -  Os recursos dos containers são gerenciados através de cgroups.
+
